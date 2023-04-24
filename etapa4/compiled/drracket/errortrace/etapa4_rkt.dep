@@ -1,0 +1,1 @@
+("8.4" ta6nt ("6d52f2db59f50b5b0a2cdd61910d5467e648f852" . "069916a49bd4dc32e53cd7689cef0ee978da67dd") #"C:\\Users\\Fane\\Desktop\\TEME_RACKET\\etapa4\\etapa2.rkt" #"C:\\Users\\Fane\\Desktop\\TEME_RACKET\\etapa4\\etapa3.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
